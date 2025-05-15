@@ -32,3 +32,6 @@
     └── pycount.py 
 ```
 
+## Ссылка на исследование
+https://docs.google.com/document/d/1VQLH2CgDH9JPBonrB8ObeZoUtoKQfDYD5VNC4SFQjFk/edit?usp=sharing
+
